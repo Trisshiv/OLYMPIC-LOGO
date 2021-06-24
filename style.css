@@ -1,0 +1,18 @@
+h1 {
+    color: #d6cc3f;
+    font-size: 40px;
+}
+
+.body_backgorund {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-color: #363300;
+}
+
+#myCanvas {
+    border-width: 5px;
+    background-color: #968f33;
+    border-style: ridge;
+    border-color: #c8ff00;
+}
